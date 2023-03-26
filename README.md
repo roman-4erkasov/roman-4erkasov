@@ -15,7 +15,22 @@ I both like develop models as a Data Scientist and implement them into Productio
  - **Distributed Learning:** PyTorch Distributed, Gloo, NCCL, Khorovod
  
  Prijects:
- - C++
+ <details>
+  <summary>C++</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Code
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
  - Algorithms
  - DS
  - CV
