@@ -69,7 +69,7 @@
                 </a>
              </td>
              <td> Small </td>
-             <td>Working well, needs more clear CLI interface and docs</td>
+             <td>Проект простой, не думаю что требуется что-то еще</td>
              <td> Big Data Academy </td>
         </tr>
     </tbody>
