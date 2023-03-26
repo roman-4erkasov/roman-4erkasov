@@ -5,14 +5,15 @@
 | Project | Code Quality  | TODO List  | Context  |
 |---------|---------------|------------|----------|
 |         |               |            |          |
-|         |               |            |          |
-|         |               |            |          |
+
 
 <table>
     <thead>
         <tr>
             <th>Project</th>
             <th>Code Quality</th>
+            <th>Status</th>
+            <th>Context</th>
         </tr>
     </thead>
     <tbody>
