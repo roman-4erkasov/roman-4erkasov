@@ -6,6 +6,7 @@ My name is Roman, I'm currently working as a Data Scientist and developing Graph
 
 ### Skills 🛠️
 
+Languages: Python, C++, SQL, Bash, Java (a long time ago)
 
 
 
