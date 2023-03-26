@@ -11,8 +11,9 @@ I both like develop models as a Data Scientist and implement them into Productio
  - **DS/DL Modeling:** NLP, CV, GNN, Transformers, 
  - **DS/ML Tooling:** PyTorch, DGL, PyG, Huggung Face, PyTorch Lightning
  - **XOps:** Unix/Linux/AIX, Bash, AWK, Jenkins, Git, Airflow, Docker, Docker Compose, Ansible
- - **HPC/Big Data:** OMP, MPI, Gloo, NCCL, Hadoop, PySpark, Hive
- - **Distributed Learning:** OMP, MPI, Gloo, NCCL, 
+ - **HPC/Big Data:** OMP, MPI, Hadoop, PySpark, Hive, Slurm
+ - **Distributed Learning:** PyTorch Distributed, Gloo, NCCL, Khorovod
+ - 
 
 
 
