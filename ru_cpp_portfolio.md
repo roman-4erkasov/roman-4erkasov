@@ -68,7 +68,7 @@
                   Count Sort
                 </a>
              </td>
-             <td> Small </td>
+             <td> Tiny </td>
              <td>Проект простой, не думаю что требуется что-то еще</td>
              <td> Big Data Academy </td>
         </tr>
