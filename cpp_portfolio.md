@@ -1,3 +1,23 @@
 
 ### My C/C++ Projects
- - [A Custom File Archiever with CLI Interface](https://github.com/roman-4erkasov/algoritms-cpp/tree/master/prj01_huffman_file_compressing)
+ - 
+
+| Project | Code Quality  | TODO List  | Context  |
+|---------|---------------|------------|----------|
+|         |               |            |          |
+|         |               |            |          |
+|         |               |            |          |
+
+<table>
+    <thead>
+        <tr>
+            <th colspan="2">The table header</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>The table body</td>
+            <td>with two columns</td>
+        </tr>
+    </tbody>
+</table>
