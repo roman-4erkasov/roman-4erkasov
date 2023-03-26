@@ -29,6 +29,8 @@ I'm currently lerning the following courses:
   - [Machine Learning and Data Analysis](https://coursera.org/share/a880e1df16018d50836e4f8f3eac8019)
   - [Natural Language Processing](https://coursera.org/share/0175defc109c02ee68d79be44c66698a)
   - [Intoductin to Big Data](https://coursera.org/share/1e61096220924b74183fa98da4056319)
+  - [Algorithmic Toolbox](https://coursera.org/share/e053d35cf823fec3703bcb3ee3dc1c85)
+  - [Intoduction to Deep Learning](https://coursera.org/share/a0ad9f67b013a8f1f9b5cbc4d3221e31)
  
  [archiever with CLI interface](https://github.com/roman-4erkasov/algoritms-cpp/tree/master/prj01_huffman_file_compressing)
  <details>
