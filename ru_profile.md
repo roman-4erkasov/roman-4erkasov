@@ -11,9 +11,9 @@
  - Курс Разработчик C++ , с классными проектами, например "Mython интерпретатор": https://practicum.yandex.ru/cpp/
  - Computer Vision для Middel Data Scientist-ов: https://deepschool.ru/
 
-**Fields of interests:** AI в Биологии, Algotrading, Network Science, GNN, NLP, CV, MLOps, C++, HPC, Distributed Systems
+**Сферы интересов:** AI в Биологии, Algotrading, Network Science, GNN, NLP, CV, MLOps, C++, HPC, Distributed Systems
 
-📫 **How to reach me:** 
+📫 **Как мо мной связаться:** 
 
 ### Навыки 🛠️
 
