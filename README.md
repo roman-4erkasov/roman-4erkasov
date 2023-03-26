@@ -48,22 +48,6 @@ I grouped my projects by topics to make your search more convenient🤗
  <details>
   <summary>C++</summary>
   <link title="archiever with CLI interface" href="https://github.com/roman-4erkasov/algoritms-cpp/tree/master/prj01_huffman_file_compressing">
- 
-  2. Bar
-     * Baz
-     * Qux
-
-  ### Some Code
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
-</details>
- - Algorithms
- - DS
- - CV
- - NLP
 
 
 <!--
