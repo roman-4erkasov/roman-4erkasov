@@ -15,6 +15,7 @@ I both like develop models as a Data Scientist and implement them into Productio
  - **Distributed Learning:** PyTorch Distributed, Gloo, NCCL, Khorovod
  
  Prijects:
+ [archiever with CLI interface](https://github.com/roman-4erkasov/algoritms-cpp/tree/master/prj01_huffman_file_compressing)
  <details>
   <summary>C++</summary>
  [archiever with CLI interface](https://github.com/roman-4erkasov/algoritms-cpp/tree/master/prj01_huffman_file_compressing)
