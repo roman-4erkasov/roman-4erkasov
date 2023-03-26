@@ -16,10 +16,10 @@ I both like develop models as a Data Scientist and implement them into Productio
  
  Prijects:
  - C++
+ - Algorithms
  - DS
  - CV
  - NLP
- - 
 
 
 <!--
