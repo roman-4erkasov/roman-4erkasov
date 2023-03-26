@@ -14,8 +14,12 @@ I both like develop models as a Data Scientist and implement them into Productio
  - **HPC/Big Data:** OMP, MPI, Hadoop, PySpark, Hive, Slurm, HDFS
  - **Distributed Learning:** PyTorch Distributed, Gloo, NCCL, Khorovod
  
- 
-
+ Prijects:
+ - C++
+ - DS
+ - CV
+ - NLP
+ - 
 
 
 <!--
