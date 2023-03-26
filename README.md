@@ -17,9 +17,7 @@ I both like develop models as a Data Scientist and implement them into Productio
  Prijects:
  <details>
   <summary>C++</summary>
-  
-  ### Heading
-  1. Foo
+  1. (https://github.com/roman-4erkasov/algoritms-cpp/tree/master/prj01_huffman_file_compressing)[huffman]
   2. Bar
      * Baz
      * Qux
