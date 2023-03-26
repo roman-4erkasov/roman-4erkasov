@@ -5,41 +5,41 @@
 <table>
     <thead>
         <tr>
-            <th>Project</th>
-            <th>Volume</th>
-            <th>Status</th>
-            <th>Context</th>
+            <th>Проект</th>
+            <th>Размер</th>
+            <th>Статус</th>
+            <th>Контекст</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>
                 <a href="https://github.com/roman-4erkasov/algoritms-cpp/tree/master/prj01_huffman_file_compressing">
-                  A Custom File Archiever with CLI Interface
+                  Архиватор файлов с CLI-интерфейсом
                 </a>
              </td>
              <td> Smedium </td>
-             <td>Works well, but planning to improve code quality</td>
-             <td> No context </td>
+             <td>Раьотает нормально, но надо поработать с качеством кода</td>
+             <td> Нет </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/roman-4erkasov/algoritms-cpp/tree/master/prj02_shutting_yard">
-                  Parsing of Complex Arithmetic Expressions like "(2+2)**2^2"
+                  Парсер сложных арифметических выражений, например "(2+2)**2^2"
                 </a>
              </td>
              <td> Small </td>
-             <td>Working well, needs more clear CLI interface and docs</td>
+             <td>Запускается и работает. Движок подделживает возведение в степень, но забыл добавить доступ в интерфейсе. Нужен более удобный CLI-интерфейс</td>
              <td> No Context </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/roman-4erkasov/made-algo/blob/main/topic05_workB.cpp">
-                  A Custom HashTable: "Strings DDictionary"
+                  Реализация Хэш-таблицы: "Словарь строк"
                 </a>
              </td>
              <td> Small </td>
-             <td>Working well, needs more clear CLI interface</td>
+             <td>Хорошо работает, но надо сделать более доустпный CLI</td>
              <td> Big Data Academy </td>
         </tr>
         <tr>
