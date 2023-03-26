@@ -11,6 +11,8 @@ I both like developong models as a Data Scientist and implement them into Produc
 
 **Fields of interests:** Network Science, GNN, NLP, CV, MLOps, C++, HPC, Distributed Systems, Algotrading, AI in Biology
 
+📫 **How to reach me:** 
+
 ### Skills 🛠️
 
  - **Languages:** Python, C/C++, SQL, Bash, Java (a long time ago)
