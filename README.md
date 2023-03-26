@@ -26,6 +26,7 @@ I both like developong models as a Data Scientist and implement them into Produc
  - **XOps:** Unix/Linux/AIX, Bash, AWK, Jenkins, Git, Airflow, Docker, Docker Compose, Ansible
  - **HPC/Big Data:** OMP, MPI, Hadoop, PySpark, Hive, Slurm, HDFS
  - **Distributed Learning:** PyTorch Distributed, Gloo, NCCL, Khorovod, [TGL](https://github.com/amazon-science/tgl), [BNS-GCN](https://github.com/GATECH-EIC/BNS-GCN)
+ - **My Fave IDE:** Vim ❤️
  
 ### Projects 👷‍♀️
 I grouped my projects by topics to make your search more convenient🤗
