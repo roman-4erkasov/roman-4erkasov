@@ -23,8 +23,8 @@
                   A Custom File Archiever with CLI Interface
                 </a>
              </td>
-             <td>1/5</td>
-             <td>1/5</td>
+             <td> 3/5 </td>
+             <td>Working, but plenning to improve code quality</td>
              <td>1/5</td>
         </tr>
     </tbody>
