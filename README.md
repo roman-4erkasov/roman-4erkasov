@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Roman, I'm a Data Scientist. 
+My name is Roman, I'm a Data Scientist and ML Engineer with Python/C++ backend. 
 
 🔭 I'm currently working on Graph Neural Networks with Economical Graphs.
 I both like develop models as a Data Scientist and implement them into Production as an ML Engineer.
