@@ -9,7 +9,7 @@
 
 🌱 Сейчас я изучаю следующие курсы:
  - Курс "Разработчик C++" от ЯПрактикум с классными проектами, например "Mython интерпретатор": https://practicum.yandex.ru/cpp/
- - Computer Vision для Middel Data Scientist-ов: https://deepschool.ru/
+ - Computer Vision для Middle Data Scientist-ов: https://deepschool.ru/
 
 **Сферы интересов:** AI в Биологии, Algotrading, Network Science, GNN, NLP, CV, MLOps, C++, HPC, Distributed Systems
 
