@@ -23,7 +23,9 @@
                   A Custom File Archiever with CLI Interface
                 </a>
              </td>
-            <td>1/5</td>
+             <td>1/5</td>
+             <td>1/5</td>
+             <td>1/5</td>
         </tr>
     </tbody>
 </table>
