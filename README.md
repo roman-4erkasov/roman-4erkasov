@@ -6,7 +6,7 @@ My name is Roman, I'm a Data Scientist and ML Engineer with Python/C++ backend.
 I both like develop models as a Data Scientist and implement them into Production as an ML Engineer.
 
 🌱  I'm currently lerning learning the following courses:
- - C++ Developer course with excellets projects like "Mython interpreter" and  "Search engine": https://practicum.yandex.ru/cpp/
+ - C++ Developer course with such excellets projects, for example "Mython interpreter": https://practicum.yandex.ru/cpp/
  - Computer Vision for Middel Data Scientists: https://deepschool.ru/
 
 **Fields of interests:** Network Science, GNN, NLP, CV, MLOps, C++, HPC, Distributed Systems, Algotrading, AI in Biology
