@@ -26,6 +26,7 @@ I grouped my projects by topics to make your search more convenient🤗
  - C/C++ Projects
  - Python Projects
  - Algorithmic Projects
+ - ML/DS Projects
  - NLP Projects
  - CV Projects
  - Network Science and GNN Projetcs
