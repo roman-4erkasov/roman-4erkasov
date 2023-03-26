@@ -11,33 +11,33 @@
  - Курс Разработчик C++ , с классными проектами, например "Mython интерпретатор": https://practicum.yandex.ru/cpp/
  - Computer Vision для Middel Data Scientist-ов: https://deepschool.ru/
 
-**Fields of interests:** AI in Biology, Algotrading, Network Science, GNN, NLP, CV, MLOps, C++, HPC, Distributed Systems
+**Fields of interests:** AI в Биологии, Algotrading, Network Science, GNN, NLP, CV, MLOps, C++, HPC, Distributed Systems
 
 📫 **How to reach me:** 
 
-### Skills 🛠️
+### Навыки 🛠️
 
- - **Languages:** Python, C/C++, SQL, Bash, Java (a long time ago), SAS (a long time ago)
- - **DS/DL Modeling:** NLP, CV, GNN, Transformers, OCR, Time Series Analysis, Ranking, Metric Learning
- - **DS/ML Tooling:** PyTorch, DGL, PyG, Huggung Face, PyTorch Lightning, XGBoost/LightGBM/CatBoost, Scikit-Learn, SciPy, Pandas, Pybind11
+ - **Языки:** Python, C/C++, SQL, Bash, Java (a long time ago), SAS (a long time ago)
+ - **DS/DL Модели:** NLP, CV, GNN, Transformers, OCR, Time Series Analysis, Ranking, Metric Learning
+ - **DS/ML Инструменты:** PyTorch, DGL, PyG, Huggung Face, PyTorch Lightning, XGBoost/LightGBM/CatBoost, Scikit-Learn, SciPy, Pandas, Pybind11
  - **XOps:** Unix/Linux/AIX, Bash, AWK, Jenkins, Git, Airflow, Docker, Docker Compose, Ansible
  - **HPC/Big Data:** OMP, MPI, Hadoop, PySpark, Hive, Slurm, HDFS
  - **Distributed Learning:** PyTorch Distributed, Gloo, NCCL, Khorovod, [TGL](https://github.com/amazon-science/tgl), [BNS-GCN](https://github.com/GATECH-EIC/BNS-GCN)
  
-### Projects
+### Проекты
  
-I grouped my projects by topics to make your search more convenient🤗
- - [C/C++ Projects](https://github.com/roman-4erkasov/roman-4erkasov/blob/main/cpp_portfolio.md)
- - Python Projects
- - Algorithmic Projects
- - ML/DS Projects
- - NLP Projects
- - CV Projects
- - Network Science and GNN Projetcs
- - HPC Projetcs
+Я сгруппировал проекты по темам, чтобы сделать Ваш поиск более удобным🤗
+ - [Проекты на C/C++](https://github.com/roman-4erkasov/roman-4erkasov/blob/main/cpp_portfolio.md)
+ - Проекты на Python 
+ - Проекты на Алгоритмику
+ - Проекты по ML/DS
+ - Проекты по NLP
+ - Проекты по компьютерному зрению
+ - Проекты по Network Science и GNN
+ - Проекты по HPC
  
  
- ### Certifications
+ ### Сертификаты
   - [Data Science Specialisation from Big Data Academy MADE]( https://data.vk.company/curriculum/certificates/download/5040/f1f7b2b5-eae5-4d82-958f-299ca010db04/)
   - [Specialisation "Machine Learning and Data Analysis"](https://coursera.org/share/a880e1df16018d50836e4f8f3eac8019)
   - [Natural Language Processing](https://coursera.org/share/0175defc109c02ee68d79be44c66698a)
@@ -48,11 +48,6 @@ I grouped my projects by topics to make your search more convenient🤗
   - [Big Data Integration and Processing](https://coursera.org/share/706710f84088cab3ca599d988e62f1dc)
   - [Big Data Modeling and Management Systems](https://coursera.org/share/1f572ade18231af13776cd3833964a9d)
  
- [archiever with CLI interface](https://github.com/roman-4erkasov/algoritms-cpp/tree/master/prj01_huffman_file_compressing)
- <details>
-  <summary>C++</summary>
-  <link title="archiever with CLI interface" href="https://github.com/roman-4erkasov/algoritms-cpp/tree/master/prj01_huffman_file_compressing">
-
 
 <!--
 **roman-4erkasov/roman-4erkasov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
