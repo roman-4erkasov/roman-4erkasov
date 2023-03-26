@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here you can find my profile in Russian: [link](https://github.com/roman-4erkasov/roman-4erkasov/blob/main/ru_profile.md)
+[Switch to Russian](https://github.com/roman-4erkasov/roman-4erkasov/blob/main/ru_profile.md)
 
 My name is Roman, I'm a Data Scientist and ML Engineer with Python/C/C++ backend. 
 
@@ -54,6 +54,8 @@ I grouped my projects by topics to make your search more convenient🤗
   <link title="archiever with CLI interface" href="https://github.com/roman-4erkasov/algoritms-cpp/tree/master/prj01_huffman_file_compressing">
 
 
+
+ 
 <!--
 **roman-4erkasov/roman-4erkasov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
