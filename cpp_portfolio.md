@@ -24,6 +24,16 @@
         </tr>
         <tr>
             <td>
+                <a href="https://github.com/roman-4erkasov/algoritms-cpp/tree/master/prj02_shutting_yard">
+                  Parsing of Complex Arithmetic Expressions like "(2+2)**2^2"
+                </a>
+             </td>
+             <td> Small </td>
+             <td>Working well, needs more clear CLI interface and docs</td>
+             <td> No Context </td>
+        </tr>
+        <tr>
+            <td>
                 <a href="https://github.com/roman-4erkasov/made-algo/blob/main/topic05_workB.cpp">
                   A Custom HashTable: "Strings DDictionary"
                 </a>
@@ -56,16 +66,6 @@
             <td>
                 <a href="https://github.com/roman-4erkasov/made-algo/blob/main/topic02_workB.cpp">
                   Count Sort
-                </a>
-             </td>
-             <td> Small </td>
-             <td>Working well, needs more clear CLI interface and docs</td>
-             <td> Big Data Academy </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/roman-4erkasov/algoritms-cpp/tree/master/prj02_shutting_yard">
-                  Parsing of Complex Arithmetic Expressions like "(2+2)**2^2"
                 </a>
              </td>
              <td> Small </td>
