@@ -9,7 +9,7 @@ I both like developong models as a Data Scientist and implement them into Produc
 
 🌱  I'm currently learning the following courses:
  - C++ Developer course with excellets projects, for example "Mython interpreter": https://practicum.yandex.ru/cpp/
- - Computer Vision for Middel Data Scientists: https://deepschool.ru/
+ - Computer Vision for Middle Data Scientists: https://deepschool.ru/
 
 
 **Fields of interests:** AI in Biology, Algotrading, Network Science, GNN, NLP, CV, MLOps, C++, HPC, Distributed Systems
