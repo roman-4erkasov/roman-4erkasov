@@ -47,5 +47,15 @@
              <td>Working well, needs more clear CLI interface and docs</td>
              <td> Big Data Academy </td>
         </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/roman-4erkasov/made-algo/blob/main/topic02_workA.cpp">
+                  Calculaton of Kth Ordinary Statistics
+                </a>
+             </td>
+             <td> 5/10 </td>
+             <td>Working well, needs more clear CLI interface and docs</td>
+             <td> Big Data Academy </td>
+        </tr>
     </tbody>
 </table>
