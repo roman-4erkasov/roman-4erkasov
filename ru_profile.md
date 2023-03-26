@@ -1,6 +1,6 @@
 ### Всем привет 👋
 
-[Английская версия](https://github.com/roman-4erkasov)
+[Switch to English](https://github.com/roman-4erkasov)
 
 Меня зовут Роман, я Data Scientist и ML Engineer с опытом программирования на Python и C/C++.
 
