@@ -11,7 +11,8 @@
 <table>
     <thead>
         <tr>
-            <th>The table header</th>
+            <th>Project</th>
+            <th>Code Quality</th>
         </tr>
     </thead>
     <tbody>
@@ -21,7 +22,7 @@
                   A Custom File Archiever with CLI Interface
                 </a>
              </td>
-            <td>with two columns</td>
+            <td>1/5</td>
         </tr>
     </tbody>
 </table>
