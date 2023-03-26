@@ -1,9 +1,15 @@
 ### Hi there 👋
 
-My name is Roman, I'm a Data Scientist. And currently I'm wirking with Graph Neural Networks.
+My name is Roman, I'm a Data Scientist. And currently I'm working on Graph Neural Networks with Economical Graphs.
 I both like develop models as a Data Scientist and implement them into Production as an ML Engineer.
 
+I'm currently 
+
 **Fields of interests:** Network Science, GNN, NLP, CV, MLOps, C++, HPC, Distributed Systems, Algotrading, AI in Biology
+
+I'm currently lerning the following courses:
+ - C++ Developer course with excellets projects like "Mython interpreter" and  "Search engine": https://practicum.yandex.ru/cpp/
+ - Computer Vision for Middel Data Scientists: https://deepschool.ru/
 
 ### Skills 🛠️
 
@@ -14,7 +20,10 @@ I both like develop models as a Data Scientist and implement them into Productio
  - **HPC/Big Data:** OMP, MPI, Hadoop, PySpark, Hive, Slurm, HDFS
  - **Distributed Learning:** PyTorch Distributed, Gloo, NCCL, Khorovod
  
- Prijects:
+ ### Projects
+ 
+ I grouped my project to 
+ 
  [archiever with CLI interface](https://github.com/roman-4erkasov/algoritms-cpp/tree/master/prj01_huffman_file_compressing)
  <details>
   <summary>C++</summary>
