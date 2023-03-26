@@ -24,8 +24,8 @@
                 </a>
              </td>
              <td> 3/5 </td>
-             <td>Working, but plenning to improve code quality</td>
-             <td>1/5</td>
+             <td>Working, but planning to improve code quality</td>
+             <td> - </td>
         </tr>
     </tbody>
 </table>
