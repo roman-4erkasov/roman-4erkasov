@@ -52,6 +52,16 @@
              <td>Working well, needs more clear CLI interface and docs</td>
              <td> Big Data Academy </td>
         </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/roman-4erkasov/made-algo/blob/main/topic02_workB.cpp">
+                  Count Sort
+                </a>
+             </td>
+             <td> Small </td>
+             <td>Working well, needs more clear CLI interface and docs</td>
+             <td> Big Data Academy </td>
+        </tr>
     </tbody>
 </table>
-https://github.com/roman-4erkasov/made-algo/blob/main/topic02_workB.cpp
+
