@@ -31,6 +31,7 @@ I'm currently lerning the following courses:
   - [Intoductin to Big Data](https://coursera.org/share/1e61096220924b74183fa98da4056319)
   - [Algorithmic Toolbox](https://coursera.org/share/e053d35cf823fec3703bcb3ee3dc1c85)
   - [Intoduction to Deep Learning](https://coursera.org/share/a0ad9f67b013a8f1f9b5cbc4d3221e31)
+  - [Machine Learning with Big Data](https://coursera.org/share/b17d7fec11f2d1375b1ff0f037a80657)
  
  [archiever with CLI interface](https://github.com/roman-4erkasov/algoritms-cpp/tree/master/prj01_huffman_file_compressing)
  <details>
