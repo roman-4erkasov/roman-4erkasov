@@ -9,7 +9,7 @@ I both like develop models as a Data Scientist and implement them into Productio
 
  - **Languages:** Python, C++, SQL, Bash, Java (a long time ago)
  - **DS/DL Modeling:** NLP, CV, GNN, Transformers, 
- - **DS/ML Tooling:** PyTorch, DGL, iGraph,
+ - **DS/ML Tooling:** PyTorch, DGL, PyG, Huggung Face,
  - **XOps:** Unix/Linux/AIX, Bash, Jenkins, Git, Airflow, Docker, Docker Compose, Ansible
 
 
