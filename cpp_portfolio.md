@@ -17,7 +17,7 @@
     <tbody>
         <tr>
             <td>
-                <a href="[#heading-ids](https://github.com/roman-4erkasov/algoritms-cpp/tree/master/prj01_huffman_file_compressing)">
+                <a href="https://github.com/roman-4erkasov/algoritms-cpp/tree/master/prj01_huffman_file_compressing">
                   A Custom File Archiever with CLI Interface
                 </a>
              </td>
