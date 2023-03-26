@@ -29,7 +29,7 @@
         </tr>
         <tr>
             <td>
-                <a href="[https://github.com/roman-4erkasov/algoritms-cpp/tree/master/prj01_huffman_file_compressing](https://github.com/roman-4erkasov/made-algo/blob/main/topic05_workB.cpp)">
+                <a href="https://github.com/roman-4erkasov/made-algo/blob/main/topic05_workB.cpp">
                   A Custom HashTable: "Strings DDictionary"
                 </a>
              </td>
