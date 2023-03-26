@@ -28,6 +28,7 @@ I'm currently lerning the following courses:
   - [Data Science Spetiasation from Big Data Academy MADE]( https://data.vk.company/curriculum/certificates/download/5040/f1f7b2b5-eae5-4d82-958f-299ca010db04/)
   - [Machine Learning and Data Analysis](https://coursera.org/share/a880e1df16018d50836e4f8f3eac8019)
   - [Natural Language Processing](https://coursera.org/share/0175defc109c02ee68d79be44c66698a)
+  - [Intoductin to Big Data](https://coursera.org/share/1e61096220924b74183fa98da4056319)
  
  [archiever with CLI interface](https://github.com/roman-4erkasov/algoritms-cpp/tree/master/prj01_huffman_file_compressing)
  <details>
