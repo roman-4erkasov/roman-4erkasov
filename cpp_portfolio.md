@@ -25,7 +25,7 @@
              </td>
              <td> 3/5 </td>
              <td>Working, but planning to improve code quality</td>
-             <td> - </td>
+             <td> No context </td>
         </tr>
     </tbody>
 </table>
