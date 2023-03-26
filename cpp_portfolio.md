@@ -29,7 +29,7 @@
                 </a>
              </td>
              <td> Small </td>
-             <td>Working well, needs more clear CLI interface and docs</td>
+             <td>Works well, needs more clear CLI interface and docs</td>
              <td> No Context </td>
         </tr>
         <tr>
@@ -39,7 +39,7 @@
                 </a>
              </td>
              <td> Small </td>
-             <td>Working well, needs more clear CLI interface</td>
+             <td>Works well, needs more clear CLI interface</td>
              <td> Big Data Academy </td>
         </tr>
         <tr>
@@ -49,7 +49,7 @@
                 </a>
              </td>
              <td> Small </td>
-             <td>Working well, needs more clear CLI interface and docs</td>
+             <td>Works well, needs more clear CLI interface and docs</td>
              <td> Big Data Academy </td>
         </tr>
         <tr>
@@ -59,7 +59,7 @@
                 </a>
              </td>
              <td> Small </td>
-             <td>Working well, needs comments and more clear CLI interface </td>
+             <td>Works well, needs comments and more clear CLI interface </td>
              <td> Big Data Academy </td>
         </tr>
         <tr>
@@ -69,7 +69,7 @@
                 </a>
              </td>
              <td> Small </td>
-             <td>Working well, maybe needs some comments</td>
+             <td>Works well, maybe needs some comments</td>
              <td> Big Data Academy </td>
         </tr>
     </tbody>
