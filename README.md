@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Roman, I'm currently working as a Data Scientist and developing Graph Neural Networks.
-I both like develop models as a Data Scientist and implement them into Production as a ML Engineer
+I both like develop models as a Data Scientist and implement them into Production as an ML Engineer
 
 **Fields of interests:** Network Science, GNN, NLP, CV, MLOps, C++, HPC, Distributed Systems, Algotrading, AI in Biology
 
