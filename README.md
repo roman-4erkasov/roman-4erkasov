@@ -2,10 +2,10 @@
 
 My name is Roman, I'm a Data Scientist and ML Engineer with Python/C++ backend. 
 
-🔭 I'm currently working on Graph Neural Networks with Economical Graphs.
+🔭 I'm currently working with Graph Neural Networks based on Economical Graphs.
 I both like develop models as a Data Scientist and implement them into Production as an ML Engineer.
 
-🌱  I'm currently lerning the following courses:
+🌱  I'm currently lerning learning the following courses:
  - C++ Developer course with excellets projects like "Mython interpreter" and  "Search engine": https://practicum.yandex.ru/cpp/
  - Computer Vision for Middel Data Scientists: https://deepschool.ru/
 
