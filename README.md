@@ -24,8 +24,7 @@ I both like developong models as a Data Scientist and implement them into Produc
  - **HPC/Big Data:** OMP, MPI, Hadoop, PySpark, Hive, Slurm, HDFS
  - **Distributed Learning:** PyTorch Distributed, Gloo, NCCL, Khorovod, [TGL](https://github.com/amazon-science/tgl), [BNS-GCN](https://github.com/GATECH-EIC/BNS-GCN)
  
-### Projects
- 
+### Projects 👷‍♀️
 I grouped my projects by topics to make your search more convenient🤗
  - [C/C++ Projects](https://github.com/roman-4erkasov/roman-4erkasov/blob/main/cpp_portfolio.md)
  - Python Projects
@@ -37,7 +36,7 @@ I grouped my projects by topics to make your search more convenient🤗
  - HPC Projetcs
  
  
- ### Certifications
+ ### Certifications 💪
   - [Data Science Specialisation from Big Data Academy MADE]( https://data.vk.company/curriculum/certificates/download/5040/f1f7b2b5-eae5-4d82-958f-299ca010db04/)
   - [Specialisation "Machine Learning and Data Analysis"](https://coursera.org/share/a880e1df16018d50836e4f8f3eac8019)
   - [Natural Language Processing](https://coursera.org/share/0175defc109c02ee68d79be44c66698a)
