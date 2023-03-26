@@ -34,7 +34,17 @@
                 </a>
              </td>
              <td> 5/10 </td>
-             <td>Working well, quality of code is quite good, needs more clear CLI interface</td>
+             <td>Working well, needs more clear CLI interface</td>
+             <td> Big Data Academy </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/roman-4erkasov/made-algo/blob/main/topic04_workC.cpp">
+                  A Custom Queue with Cyclic Buffer
+                </a>
+             </td>
+             <td> 5/10 </td>
+             <td>Working well, needs more clear CLI interface and docs</td>
              <td> Big Data Academy </td>
         </tr>
     </tbody>
