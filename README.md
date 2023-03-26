@@ -48,14 +48,8 @@ I grouped my projects by topics to make your search more convenient🤗
   - [Big Data Integration and Processing](https://coursera.org/share/706710f84088cab3ca599d988e62f1dc)
   - [Big Data Modeling and Management Systems](https://coursera.org/share/1f572ade18231af13776cd3833964a9d)
  
- [archiever with CLI interface](https://github.com/roman-4erkasov/algoritms-cpp/tree/master/prj01_huffman_file_compressing)
- <details>
-  <summary>C++</summary>
-  <link title="archiever with CLI interface" href="https://github.com/roman-4erkasov/algoritms-cpp/tree/master/prj01_huffman_file_compressing">
-
-
-
  
+
 <!--
 **roman-4erkasov/roman-4erkasov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
