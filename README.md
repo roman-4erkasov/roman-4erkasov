@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-My name is Roman, I'm a Data Scientist. And currently I'm working on Graph Neural Networks with Economical Graphs.
+My name is Roman, I'm a Data Scientist. 
+
+🔭 I'm currently working on Graph Neural Networks with Economical Graphs.
 I both like develop models as a Data Scientist and implement them into Production as an ML Engineer.
 
-I'm currently 
-
-**Fields of interests:** Network Science, GNN, NLP, CV, MLOps, C++, HPC, Distributed Systems, Algotrading, AI in Biology
-
-I'm currently lerning the following courses:
+🌱  I'm currently lerning the following courses:
  - C++ Developer course with excellets projects like "Mython interpreter" and  "Search engine": https://practicum.yandex.ru/cpp/
  - Computer Vision for Middel Data Scientists: https://deepschool.ru/
+
+**Fields of interests:** Network Science, GNN, NLP, CV, MLOps, C++, HPC, Distributed Systems, Algotrading, AI in Biology
 
 ### Skills 🛠️
 
