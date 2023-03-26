@@ -24,6 +24,9 @@ I'm currently lerning the following courses:
  
  I grouped my project to 
  
+ ### Certifications
+  - [Data Science Spetiasation from Big Data Academy MADE]( https://data.vk.company/curriculum/certificates/download/5040/f1f7b2b5-eae5-4d82-958f-299ca010db04/)
+ 
  [archiever with CLI interface](https://github.com/roman-4erkasov/algoritms-cpp/tree/master/prj01_huffman_file_compressing)
  <details>
   <summary>C++</summary>
