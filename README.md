@@ -2,7 +2,7 @@
 
 My name is Roman, I'm currently working as a Data Scientist and developing Graph Neural Networks
 
-**Fields of interests:** Network Science, GNN, NLP, CV, MLOps, C++, HPC, Distributed Systems
+**Fields of interests:** Network Science, GNN, NLP, CV, MLOps, C++, HPC, Distributed Systems, algotrading, AI in Biology
 
 
 
