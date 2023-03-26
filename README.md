@@ -18,7 +18,7 @@ I both like develop models as a Data Scientist and implement them into Productio
  - **DS/ML Tooling:** PyTorch, DGL, PyG, Huggung Face, PyTorch Lightning, XGBoost/LightGBM/CatBoost, Scikit-Learn, SciPy, Pandas, Pybind11
  - **XOps:** Unix/Linux/AIX, Bash, AWK, Jenkins, Git, Airflow, Docker, Docker Compose, Ansible
  - **HPC/Big Data:** OMP, MPI, Hadoop, PySpark, Hive, Slurm, HDFS
- - **Distributed Learning:** PyTorch Distributed, Gloo, NCCL, Khorovod
+ - **Distributed Learning:** PyTorch Distributed, Gloo, NCCL, Khorovod, [TGL](https://github.com/amazon-science/tgl), [BNS-FNN](https://github.com/GATECH-EIC/BNS-GCN)
  
 ### Projects
  
