@@ -2,14 +2,14 @@
 
 Здесь Вы можете найти мой профиль на английском: [ссылка](https://github.com/roman-4erkasov)
 
-My name is Roman, I'm a Data Scientist and ML Engineer with Python/C/C++ backend. 
+Меня зовут Роман, я Data Scientist и ML Engineer с опытом программирования на Python и C/C++.
 
-🔭 I'm currently working with Graph Neural Networks based on Economical Graphs.
-I both like developong models as a Data Scientist and implement them into Production as an ML Engineer.
+🔭 На текуйщий момент я работаю с графовыми нейронными сетями на основе экономических графов.
+Я люблю одновременно и разрабатывать модели как Data Scientist и имплементировать их как  ML Engineer.
 
-🌱  I'm currently lerning learning the following courses:
- - C++ Developer course with excellets projects, for example "Mython interpreter": https://practicum.yandex.ru/cpp/
- - Computer Vision for Middel Data Scientists: https://deepschool.ru/
+🌱 Сейчас я изучаю следующие курсы:
+ - Курс Разработчик C++ , с классными проектами, например "Mython интерпретатор": https://practicum.yandex.ru/cpp/
+ - Computer Vision для Middel Data Scientist-ов: https://deepschool.ru/
 
 **Fields of interests:** AI in Biology, Algotrading, Network Science, GNN, NLP, CV, MLOps, C++, HPC, Distributed Systems
 
