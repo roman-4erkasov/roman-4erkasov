@@ -18,7 +18,7 @@ I both like develop models as a Data Scientist and implement them into Productio
  [archiever with CLI interface](https://github.com/roman-4erkasov/algoritms-cpp/tree/master/prj01_huffman_file_compressing)
  <details>
   <summary>C++</summary>
-    1. <link title="archiever with CLI interface" href="https://github.com/roman-4erkasov/algoritms-cpp/tree/master/prj01_huffman_file_compressing">
+  <link title="archiever with CLI interface" href="https://github.com/roman-4erkasov/algoritms-cpp/tree/master/prj01_huffman_file_compressing">
  
   2. Bar
      * Baz
