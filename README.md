@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Switch to Russian](https://github.com/roman-4erkasov/roman-4erkasov/blob/main/ru_profile.md)
+[[Switch to Russian]](https://github.com/roman-4erkasov/roman-4erkasov/blob/main/ru_profile.md)
 
 My name is Roman, I'm a Data Scientist and ML Engineer with Python/C/C++ backend. 
 
