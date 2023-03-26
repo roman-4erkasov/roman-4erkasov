@@ -64,7 +64,7 @@
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/roman-4erkasov/made-algo/blob/main/topic02_workB.cpp">
+                <a href="https://github.com/roman-4erkasov/algoritms-cpp/tree/master/prj02_shutting_yard">
                   Parsing of Complex Arithmetic Expressions like "(2+2)**2^2"
                 </a>
              </td>
@@ -74,4 +74,4 @@
         </tr>
     </tbody>
 </table>
-https://github.com/roman-4erkasov/algoritms-cpp/tree/master/prj02_shutting_yard
+
