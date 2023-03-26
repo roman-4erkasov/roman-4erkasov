@@ -39,7 +39,7 @@
                 </a>
              </td>
              <td> Small </td>
-             <td>Хорошо работает, но надо сделать более доустпный CLI</td>
+             <td> работает нормально, но надо сделать более доустпный CLI</td>
              <td> Big Data Academy </td>
         </tr>
         <tr>
@@ -49,17 +49,17 @@
                 </a>
              </td>
              <td> Small </td>
-             <td>Working well, needs more clear CLI interface and docs</td>
+             <td>работает нормально, надо поработать над CLI и добавить комментов</td>
              <td> Big Data Academy </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/roman-4erkasov/made-algo/blob/main/topic02_workA.cpp">
-                  Calculaton of Kth Ordinary Statistics
+                  Вычисление k-ой порядковой статистики
                 </a>
              </td>
              <td> Small </td>
-             <td>Working well, needs more clear CLI interface and docs</td>
+             <td>работает нормально, надо пораьотать над CLI и добавить комментов</td>
              <td> Big Data Academy </td>
         </tr>
         <tr>
