@@ -26,7 +26,7 @@ I both like developong models as a Data Scientist and implement them into Produc
  - **XOps:** Unix/Linux/AIX, Bash, AWK, Jenkins, Git, Airflow, Docker, Docker Compose, Ansible, DVC, 
  - **HPC/Big Data:** OMP, MPI, Hadoop, PySpark, Hive, Slurm, HDFS
  - **Distributed Learning:** PyTorch Distributed, Gloo, NCCL, Khorovod, [TGL](https://github.com/amazon-science/tgl), [BNS-GCN](https://github.com/GATECH-EIC/BNS-GCN)
- - **Python**: PyTest, FastAPI, Dependency Injector, PyDantic, Flask, KFService, sqlalchemy, BeautifullSoup, lxml, Ansible, DVC, Ansible
+ - **Python**: PyTest, FastAPI, Dependency Injector, PyDantic, Flask, KFService, sqlalchemy, BeautifullSoup, lxml, Ansible
  - **C/C++**: OMP, Protobuf, Boost, POCO, GTest/GMock
  - **My Fave IDE:** Vim ❤️
  
