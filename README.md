@@ -23,9 +23,11 @@ I both like developong models as a Data Scientist and implement them into Produc
  - **Languages:** Python, C/C++, SQL, Bash, Java (a long time ago), SAS (a long time ago)
  - **DS/DL Modeling:** NLP, CV, GNN, Transformers, OCR, Time Series Analysis, Ranking, Metric Learning
  - **DS/ML Tooling:** PyTorch, DGL, PyG, Huggung Face, PyTorch Lightning, XGBoost/LightGBM/CatBoost, Scikit-Learn, SciPy, Pandas, Pybind11
- - **XOps:** Unix/Linux/AIX, Bash, AWK, Jenkins, Git, Airflow, Docker, Docker Compose, Ansible
+ - **XOps:** Unix/Linux/AIX, Bash, AWK, Jenkins, Git, Airflow, Docker, Docker Compose, Ansible, DVC, 
  - **HPC/Big Data:** OMP, MPI, Hadoop, PySpark, Hive, Slurm, HDFS
  - **Distributed Learning:** PyTorch Distributed, Gloo, NCCL, Khorovod, [TGL](https://github.com/amazon-science/tgl), [BNS-GCN](https://github.com/GATECH-EIC/BNS-GCN)
+ - **Python**: FastAPI, Dependency Injector, PyDantic, Flask, KFService, sqlalchemy
+ - **C/C++**: OMP, Protobuf, Boost
  - **My Fave IDE:** Vim ❤️
  
 ### Projects 👷‍♀️
