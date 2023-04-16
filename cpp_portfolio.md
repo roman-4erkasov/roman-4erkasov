@@ -25,7 +25,7 @@
         <tr>
             <td>
                 <a href="https://github.com/roman-4erkasov/algoritms-cpp/tree/master/prj02_shutting_yard">
-                  Parsing of Complex Arithmetic Expressions like "(2+2)**2^2"
+                  Parsing of Complex Arithmetic Expressions like "2+2*2^2"
                 </a>
              </td>
              <td> Small </td>
