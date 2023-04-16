@@ -35,7 +35,7 @@
         <tr>
             <td>
                 <a href="https://github.com/roman-4erkasov/made-algo/blob/main/topic05_workB.cpp">
-                  A Custom HashTable: "Strings DDictionary"
+                  Custom HashTable: dictionary with hash function for string
                 </a>
              </td>
              <td> Small </td>
