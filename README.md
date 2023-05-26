@@ -21,6 +21,7 @@ I both like developong models as a Data Scientist and implement them into Produc
 ### Skills 🛠️
 
  - **Languages:** Python, C/C++, SQL, Bash, Java (a long time ago), SAS (a long time ago)
+ - **Have an experience in Labeling Crowdsourcing**: Toloka/TolokaKit, LabelStudio, Phone Questionaires
  - **DS/DL Modeling:** NLP, CV, GNN, Transformers, OCR, Time Series Analysis, Ranking, Metric Learning
  - **DS/ML Tooling:** PyTorch, DGL, PyG, Huggung Face, PyTorch Lightning, XGBoost/LightGBM/CatBoost, Scikit-Learn, SciPy, Pandas, Pybind11, ClearML, Catalyst, DVC, ONNX/TRT/OpenVino
  - **XOps:** Unix/Linux/AIX, Bash, AWK, Jenkins, Git, Airflow, Docker, Docker Compose, Ansible, DVC, 
