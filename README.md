@@ -15,7 +15,7 @@ I both like developong models as a Data Scientist and implement them into Produc
 **Fields of interests:** AI in Biology, Algotrading, Network Science, GNN, NLP, CV, MLOps, C++, HPC, Distributed Systems
 
 
-📫 **How to reach me:** not yet;-)
+📫 **How to reach me:** not yet ;-)
 
 
 ### Skills 🛠️
@@ -29,7 +29,7 @@ I both like developong models as a Data Scientist and implement them into Produc
  - **Distributed Learning:** PyTorch Distributed, Gloo, NCCL, Khorovod, [TGL](https://github.com/amazon-science/tgl), [BNS-GCN](https://github.com/GATECH-EIC/BNS-GCN)
  - **Python**: PyTest, FastAPI, Dependency Injector, PyDantic, Flask, KFService, sqlalchemy, BeautifullSoup, lxml, Ansible
  - **C/C++**: OMP, Protobuf, Boost, POCO, GTest/GMock
- - **My Fave IDE:** Vim ❤️
+ - **My Fave IDE:** Vim and NeoVim ❤️
  
 ### Projects 👷‍♀️
 I grouped my projects by topics to make your search more convenient🤗
