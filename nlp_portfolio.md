@@ -55,7 +55,7 @@ To be honest, my nlp portfolio is quite bad. I'm going to improve it.
         </tr>
         
 <!--   
-       https://github.com/roman-4erkasov/nlp_work/blob/main/MADE/NLP_HW01/homework01_texts.ipynb
+       
        <tr>
             <td>
                 <a href="https://google.com">
