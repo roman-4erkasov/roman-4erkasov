@@ -43,7 +43,7 @@ To be honest, my nlp portfolio is quite bad. I'm going to improve it.
              <td> MADE </td>
         </tr>
         
-        <tr>
+<!--         <tr>
             <td>
                 <a href="https://github.com/roman-4erkasov/nlp_work/blob/main/MADE/NLP_HW01/homework01_texts.ipynb">
                   Text processing and Classic NLP
@@ -52,7 +52,7 @@ To be honest, my nlp portfolio is quite bad. I'm going to improve it.
              <td> Tiny </td>
              <td>Not bad for a simple project</td>
              <td> MADE </td>
-        </tr>
+        </tr> -->
         
 <!--   
        
