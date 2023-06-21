@@ -105,7 +105,7 @@ To be honest, my nlp portfolio is quite bad. I'm going to improve it.
         <tr>
             <td> Automatic question generation, using syntax parsing </td>
              <td> - </td>
-             <td> Work In Progrss </td>
+             <td> In plans </td>
              <td> No Context </td>
         </tr>
      <!--   
