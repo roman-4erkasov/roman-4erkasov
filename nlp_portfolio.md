@@ -52,9 +52,6 @@ To be honest, my nlp portfolio is quite bad. I'm going to improve it.
              <td> Not bad for a simple project </td>
              <td> MADE </td>
         </tr> 
-        
-        
-        
         <tr>
             <td>
                 <a href="https://github.com/roman-4erkasov/nlp_work/blob/main/bert_ner/bert_ner.ipynb">
