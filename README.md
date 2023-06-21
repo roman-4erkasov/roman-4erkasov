@@ -18,6 +18,17 @@ I both like developong models as a Data Scientist and implement them into Produc
 📫 **How to reach me:** not yet ;-)
 
 
+### Projects 👷‍♀️
+I grouped my projects by topics to make your search more convenient🤗
+ - [C/C++ Projects](https://github.com/roman-4erkasov/roman-4erkasov/blob/main/cpp_portfolio.md)
+ - Python Projects
+ - Algorithmic Projects
+ - ML/DS Projects
+ - [NLP Projects](https://github.com/roman-4erkasov/roman-4erkasov/blob/main/nlp_portfolio.md)
+ - [CV Projects](https://github.com/roman-4erkasov/roman-4erkasov/blob/main/cv_portfolio.md)
+ - Network Science and GNN Projetcs
+ - HPC Projetcs
+
 ### Skills 🛠️
 
  - **Languages:** Python, C/C++, SQL, Bash, Java (a long time ago), SAS (a long time ago)
@@ -31,16 +42,7 @@ I both like developong models as a Data Scientist and implement them into Produc
  - **C/C++**: OMP, Protobuf, Boost, POCO, GTest/GMock
  - **My Fave IDE:** Vim and NeoVim ❤️
  
-### Projects 👷‍♀️
-I grouped my projects by topics to make your search more convenient🤗
- - [C/C++ Projects](https://github.com/roman-4erkasov/roman-4erkasov/blob/main/cpp_portfolio.md)
- - Python Projects
- - Algorithmic Projects
- - ML/DS Projects
- - NLP Projects
- - CV Projects
- - Network Science and GNN Projetcs
- - HPC Projetcs
+
  
  
  ### Certifications 💪
