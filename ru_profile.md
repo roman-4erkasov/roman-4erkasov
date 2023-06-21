@@ -15,6 +15,21 @@
 
 📫 **Как мо мной связаться:** 
 
+
+ 
+### Проекты
+ 
+Я сгруппировал проекты по темам, чтобы сделать Ваш поиск более удобным🤗
+ - [Проекты на C/C++](https://github.com/roman-4erkasov/roman-4erkasov/blob/main/ru_cpp_portfolio.md)
+ - [Проекты по Network Science и GNN](https://github.com/roman-4erkasov/roman-4erkasov/blob/main/graph_portfolio.md)
+ - Проекты на Python 
+ - [Проекты на Алгоритмику](https://github.com/roman-4erkasov/roman-4erkasov/blob/main/algo_portfolio.md)
+ - [Проекты по ML/DS](https://github.com/roman-4erkasov/roman-4erkasov/blob/main/classicds_portfolio.md)
+ - [Проекты по NLP](https://github.com/roman-4erkasov/roman-4erkasov/blob/main/nlp_portfolio.md)
+ - [Проекты по компьютерному зрению](https://github.com/roman-4erkasov/roman-4erkasov/blob/main/cv_portfolio.md)
+ - Проекты по HPC
+
+
 ### Навыки 🛠️
 
  - **Языки:** Python, C/C++, SQL, Bash, Java (это было давно), SAS (это было давно)
@@ -24,19 +39,6 @@
  - **HPC/Big Data:** OMP, MPI, Hadoop, PySpark, Hive, Slurm, HDFS
  - **Distributed Learning:** PyTorch Distributed, Gloo, NCCL, Khorovod, [TGL](https://github.com/amazon-science/tgl), [BNS-GCN](https://github.com/GATECH-EIC/BNS-GCN)
  - **Любимая среда разработки:** Vim ❤️
- 
-### Проекты
- 
-Я сгруппировал проекты по темам, чтобы сделать Ваш поиск более удобным🤗
- - [Проекты на C/C++](https://github.com/roman-4erkasov/roman-4erkasov/blob/main/ru_cpp_portfolio.md)
- - Проекты на Python 
- - Проекты на Алгоритмику
- - Проекты по ML/DS
- - Проекты по NLP
- - Проекты по компьютерному зрению
- - Проекты по Network Science и GNN
- - Проекты по HPC
- 
  
  ### Сертификаты
   - [Data Science Specialisation from Big Data Academy MADE]( https://data.vk.company/curriculum/certificates/download/5040/f1f7b2b5-eae5-4d82-958f-299ca010db04/)
