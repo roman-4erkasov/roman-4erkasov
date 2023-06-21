@@ -34,7 +34,7 @@ To be honest, my nlp portfolio is quite bad. I'm going to improve it.
         </tr>
         <tr>
             <td>
-                <a href="[https://google.com](https://github.com/roman-4erkasov/nlp_work/blob/main/MADE/NLP_HW02/homework02_Embedding_based_MT.ipynb)">
+                <a href="https://github.com/roman-4erkasov/nlp_work/blob/main/MADE/NLP_HW02/homework02_Embedding_based_MT.ipynb">
                   Unsupervised embedding-based translation
                 </a>
              </td>
