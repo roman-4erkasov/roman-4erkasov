@@ -82,6 +82,20 @@ To be honest, my nlp portfolio is quite bad. I'm going to improve it.
              <td> Works, but notebook is quite poor </td>
              <td> No Context </td>
         </tr>
+
+
+        
+        <tr>
+            <td>
+                <a href="https://github.com/roman-4erkasov/nlp-coursera/blob/master/work02_ner/week2-NER.ipynb">
+                  NER using BiLSTM
+                </a>
+             </td>
+             <td> Tiny </td>
+             <td> I've made it using tensorflow 0_j </td>
+             <td> No Context </td>
+        </tr>
+        
      <!--   
        
        <tr>
