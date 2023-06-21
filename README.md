@@ -21,6 +21,7 @@ I both like developong models as a Data Scientist and implement them into Produc
 ### Projects 👷‍♀️
 I grouped my projects by topics to make your search more convenient🤗
  - [C/C++ Projects](https://github.com/roman-4erkasov/roman-4erkasov/blob/main/cpp_portfolio.md)
+ - [Network Science / GNN](https://github.com/roman-4erkasov/roman-4erkasov/blob/main/graph_portfolio.md)
  - Python Projects
  - Algorithmic Projects
  - ML/DS Projects
