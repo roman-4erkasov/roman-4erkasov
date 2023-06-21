@@ -82,9 +82,6 @@ To be honest, my nlp portfolio is quite bad. I'm going to improve it.
              <td> Works, but notebook is quite poor </td>
              <td> No Context </td>
         </tr>
-
-
-        
         <tr>
             <td>
                 <a href="https://github.com/roman-4erkasov/nlp-coursera/blob/master/work02_ner/week2-NER.ipynb">
@@ -95,7 +92,16 @@ To be honest, my nlp portfolio is quite bad. I'm going to improve it.
              <td> I've made it using tensorflow 0_j </td>
              <td> No Context </td>
         </tr>
-        
+        <tr>
+            <td>
+                <a href="https://github.com/roman-4erkasov/nlp-coursera/blob/master/work01_sentiment/w02_sa.ipynb">
+                  Sentiment analysis using Classic NLP
+                </a>
+             </td>
+             <td> Tiny </td>
+             <td> Quite poor notebook </td>
+             <td> No Context </td>
+        </tr>
      <!--   
        
        <tr>
