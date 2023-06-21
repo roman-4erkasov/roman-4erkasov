@@ -53,7 +53,19 @@ To be honest, my nlp portfolio is quite bad. I'm going to improve it.
              <td> MADE </td>
         </tr> 
         
-<!--   
+        
+        
+        <tr>
+            <td>
+                <a href="https://github.com/roman-4erkasov/nlp_work/blob/main/bert_ner/bert_ner.ipynb">
+                  NER using fine tuning on BERT
+                </a>
+             </td>
+             <td> Very simple project, it't just test of using BERT </td>
+             <td></td>
+             <td> No Context </td>
+        </tr>
+     <!--   
        
        <tr>
             <td>
