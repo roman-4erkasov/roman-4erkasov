@@ -45,7 +45,7 @@
         </tr>
         <tr>
             <td>
-                Benchmark of inference tools: Torch, TorchTrace, ONNX
+                Benchmark of inference tools: Torch, TorchTrace, TorchScript, ONNX, TensorRT (fp32 and fp16), OpenVino
              </td>
              <td> Small </td>
              <td>Works well, needs comments and more clear CLI interface </td>
