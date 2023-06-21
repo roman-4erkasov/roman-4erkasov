@@ -61,8 +61,8 @@ To be honest, my nlp portfolio is quite bad. I'm going to improve it.
                   NER using fine tuning on BERT
                 </a>
              </td>
+             <td> Tiny </td>
              <td> Very simple project, it't just test of using BERT </td>
-             <td></td>
              <td> No Context </td>
         </tr>
      <!--   
