@@ -23,7 +23,7 @@ I grouped my projects by topics to make your search more convenient🤗
  - [C/C++ Projects](https://github.com/roman-4erkasov/roman-4erkasov/blob/main/cpp_portfolio.md)
  - [Network Science / GNN](https://github.com/roman-4erkasov/roman-4erkasov/blob/main/graph_portfolio.md)
  - Python Projects
- - Algorithmic Projects
+ - [Algorithmic Projects](https://github.com/roman-4erkasov/roman-4erkasov/blob/main/algo_portfolio.md)
  - ML/DS Projects
  - [NLP Projects](https://github.com/roman-4erkasov/roman-4erkasov/blob/main/nlp_portfolio.md)
  - [CV Projects](https://github.com/roman-4erkasov/roman-4erkasov/blob/main/cv_portfolio.md)
