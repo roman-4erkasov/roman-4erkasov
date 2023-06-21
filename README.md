@@ -24,10 +24,9 @@ I grouped my projects by topics to make your search more convenient🤗
  - [Network Science / GNN](https://github.com/roman-4erkasov/roman-4erkasov/blob/main/graph_portfolio.md)
  - Python Projects
  - [Algorithmic Projects](https://github.com/roman-4erkasov/roman-4erkasov/blob/main/algo_portfolio.md)
- - ML/DS Projects
+ - [ML/DS Projects](https://github.com/roman-4erkasov/roman-4erkasov/blob/main/classicds_portfolio.md)
  - [NLP Projects](https://github.com/roman-4erkasov/roman-4erkasov/blob/main/nlp_portfolio.md)
  - [CV Projects](https://github.com/roman-4erkasov/roman-4erkasov/blob/main/cv_portfolio.md)
- - Network Science and GNN Projetcs
  - HPC Projetcs
 
 ### Skills 🛠️
