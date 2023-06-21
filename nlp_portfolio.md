@@ -62,7 +62,6 @@ To be honest, my nlp portfolio is quite bad. I'm going to improve it.
              <td> Very simple project, it't just test of using BERT </td>
              <td> No Context </td>
         </tr>
-        
         <tr>
             <td>
                 <a href="[https://google.com](https://github.com/roman-4erkasov/nlp-coursera/blob/master/work04_seq2seq/week4-seq2seq.ipynb)">
@@ -72,6 +71,16 @@ To be honest, my nlp portfolio is quite bad. I'm going to improve it.
              <td> Tiny </td>
              <td> Just a simple project </td>
              <td> Coursera </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/roman-4erkasov/nlp-coursera/blob/master/work03_deduplication/week3-Embeddings.ipynb">
+                  Deduplication using word-vectors
+                </a>
+             </td>
+             <td>  </td>
+             <td></td>
+             <td> No Context </td>
         </tr>
      <!--   
        
