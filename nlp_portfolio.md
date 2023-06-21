@@ -32,6 +32,16 @@ To be honest, my nlp portfolio is quite bad. I'm going to improve it.
             <td> It works, but realisation is very poor. </td>
             <td> MADE </td>
         </tr>
+        <tr>
+            <td>
+                <a href="[https://google.com](https://github.com/roman-4erkasov/nlp_work/blob/main/MADE/NLP_HW02/homework02_Embedding_based_MT.ipynb)">
+                  Unsupervised embedding-based translation
+                </a>
+             </td>
+             <td> Tiny </td>
+             <td>It works, but realisation is very poor.</td>
+             <td> MADE </td>
+        </tr>
 <!--          <tr>
             <td>
                 <a href="https://google.com">
