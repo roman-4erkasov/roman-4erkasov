@@ -64,8 +64,8 @@ To be honest, my nlp portfolio is quite bad. I'm going to improve it.
         </tr>
         <tr>
             <td>
-                <a href="[https://google.com](https://github.com/roman-4erkasov/nlp-coursera/blob/master/work04_seq2seq/week4-seq2seq.ipynb)">
-                  Calculator based on RNN
+                <a href="https://github.com/roman-4erkasov/nlp-coursera/blob/master/work04_seq2seq/week4-seq2seq.ipynb">
+                  RNN-based Calculator
                 </a>
              </td>
              <td> Tiny </td>
@@ -78,8 +78,8 @@ To be honest, my nlp portfolio is quite bad. I'm going to improve it.
                   Deduplication using word-vectors
                 </a>
              </td>
-             <td>  </td>
-             <td></td>
+             <td> Tiny </td>
+             <td> Works, but notebook is quite poor </td>
              <td> No Context </td>
         </tr>
      <!--   
