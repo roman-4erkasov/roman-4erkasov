@@ -80,7 +80,7 @@ To be honest, my nlp portfolio is quite bad. I'm going to improve it.
              </td>
              <td> Tiny </td>
              <td> Works, but notebook is quite poor </td>
-             <td> No Context </td>
+             <td> Coursera </td>
         </tr>
         <tr>
             <td>
@@ -90,7 +90,7 @@ To be honest, my nlp portfolio is quite bad. I'm going to improve it.
              </td>
              <td> Tiny </td>
              <td> I've made it using tensorflow 0_j </td>
-             <td> No Context </td>
+             <td> Coursera </td>
         </tr>
         <tr>
             <td>
@@ -100,6 +100,12 @@ To be honest, my nlp portfolio is quite bad. I'm going to improve it.
              </td>
              <td> Tiny </td>
              <td> Quite poor notebook </td>
+             <td> Coursera </td>
+        </tr>
+        <tr>
+            <td> Automatic question generation, using syntax parsing </td>
+             <td> - </td>
+             <td> Work In Progrss </td>
              <td> No Context </td>
         </tr>
      <!--   
@@ -112,7 +118,7 @@ To be honest, my nlp portfolio is quite bad. I'm going to improve it.
              </td>
              <td>  </td>
              <td></td>
-             <td> No Context </td>
+             <td> Coursera </td>
         </tr> -->
     </tbody>
 </table>
