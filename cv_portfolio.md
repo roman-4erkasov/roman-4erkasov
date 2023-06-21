@@ -48,8 +48,8 @@
                 Benchmark of inference tools: Torch, TorchTrace, TorchScript, ONNX, TensorRT (fp32 and fp16), OpenVino
              </td>
              <td> Small </td>
-             <td>Works well, needs comments and more clear CLI interface </td>
-             <td> Big Data Academy </td>
+             <td>Works well, but not published yet </td>
+             <td> Rocket CV of DeepSchool </td>
         </tr>
         <tr>
             <td>
