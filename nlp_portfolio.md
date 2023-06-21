@@ -1,4 +1,4 @@
-## My C/C++ Projects
+## My NLP Projects
 
 To be honest, my nlp portfolio is quite bad. I'm going to improve it.
 
