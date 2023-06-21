@@ -34,7 +34,7 @@ To be honest, my nlp portfolio is quite bad. I'm going to improve it.
         </tr>
          <tr>
             <td>
-                <a href="">
+                <a href="0">
                   
                 </a>
              </td>
