@@ -53,13 +53,27 @@
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/roman-4erkasov/made-algo/blob/main/topic02_workB.cpp">
-                  Count Sort
-                </a>
+                TorchServe Service for OCR of barcodes 
              </td>
-             <td> Tiny </td>
-             <td>Works well, maybe needs some comments</td>
-             <td> Big Data Academy </td>
+             <td> Large </td>
+             <td> Work In Progress </td>
+             <td> Rocket CV of DeepSchool </td>
+        </tr>
+        <tr>
+            <td>
+                Custom ViT implemetation for Image Classification
+             </td>
+             <td> Smedium </td>
+             <td>Work In Progress</td>
+             <td> Rocket CV of DeepSchool </td>
+        </tr>
+        <tr>
+            <td>
+                Actor Face Recognition
+             </td>
+             <td> Small </td>
+             <td>Work In Progress</td>
+             <td> Rocket CV of DeepSchool </td>
         </tr>
     </tbody>
 </table>
