@@ -14,6 +14,22 @@
     <tbody>
         <tr>
             <td>
+                  `Search Engine with parallel query processing
+             </td>
+             <td> Large </td>
+             <td>Works well, but not published yet</td>
+             <td> C++ Developer from Yandex Practicum </td>
+        </tr>
+        <tr>
+            <td>
+                  `Transport catalogue
+             </td>
+             <td> Large </td>
+             <td>Works well, but not published yet</td>
+             <td> C++ Developer from Yandex Practicum </td>
+        </tr>
+        <tr>
+            <td>
                 <a href="https://github.com/roman-4erkasov/algoritms-cpp/tree/master/prj01_huffman_file_compressing">
                   A Custom File Archiever with CLI Interface
                 </a>
