@@ -38,7 +38,7 @@ I grouped my projects by topics to make your search more convenient🤗
  - **XOps:** Unix/Linux/AIX, Bash, AWK, Jenkins, Git, Airflow, Docker, Docker Compose, Ansible, DVC, 
  - **HPC/Big Data:** OMP, MPI, Hadoop, PySpark, Hive, Slurm, HDFS
  - **Distributed Learning:** PyTorch Distributed, Gloo, NCCL, Khorovod, [TGL](https://github.com/amazon-science/tgl), [BNS-GCN](https://github.com/GATECH-EIC/BNS-GCN)
- - **Python**: PyTest, FastAPI, Dependency Injector, PyDantic, Flask, KFService, sqlalchemy, BeautifullSoup, lxml, Ansible
+ - **Python**: PyTest, FastAPI, Dependency Injector, PyDantic, Flask, KFService, sqlalchemy, BeautifullSoup, lxml, Ansible, Hydra/OmegaConf/PyYaml
  - **C/C++**: OMP, Protobuf, Boost, POCO, GTest/GMock
  - **My Fave IDE:** Vim and NeoVim ❤️
  
