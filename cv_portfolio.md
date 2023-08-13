@@ -74,7 +74,9 @@
         </tr>
         <tr>
             <td>
+                <a href="https://github.com/roman-4erkasov/deepschool-cvr-vit/tree/dev">
                 Custom ViT implemetation for Image Classification
+                </a>
              </td>
              <td> Medium </td>
              <td>Work In Progress</td>
