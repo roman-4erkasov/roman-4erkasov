@@ -18,7 +18,7 @@
                 </a>
              </td>
              <td> Large </td>
-             <td>Works well, but not published yet</td>
+             <td>Works well, there is some ideas to improve it in TODO List</td>
              <td> Rocket CV of DeepSchool </td>
         </tr>
         <tr>
