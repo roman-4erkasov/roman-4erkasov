@@ -26,7 +26,9 @@
         </tr>
         <tr>
             <td>
+                <a href="https://github.com/roman-4erkasov/deepschool-cvr-toloka/tree/dev">
                 Automatic project creation based on TolokaAPI for crowdsourcing 
+                </a>
              </td>
              <td> Smedium </td>
              <td>Works well, but not published yet </td>
