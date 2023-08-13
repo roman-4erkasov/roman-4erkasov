@@ -39,7 +39,7 @@
                 Barcode segmetation based on LinkNet and trasfer to object detection based on Classic Computer Vision (OpenCV)
              </td>
              <td> Medium </td>
-             <td> but not published yet </td>
+             <td> Work In Progress </td>
              <td> Rocket CV of DeepSchool </td>
         </tr>
         <tr>
