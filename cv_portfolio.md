@@ -13,8 +13,11 @@
     <tbody>
         <tr>
             <td>
-                <a href="https://github.com/roman-4erkasov/deepschool-cvr-service/tree/dev">
+                1. <a href="https://github.com/roman-4erkasov/deepschool-cvr-service/tree/dev">
                     Service with FastAPI and CI/CD that performs multilabe classifaction of aerocosmic shots
+                </a>
+                2. <a href="https://github.com/roman-4erkasov/deepschool-cvr-modeling/tree/dev">
+                    Training model for the service above
                 </a>
              </td>
              <td> Large </td>
