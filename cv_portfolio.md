@@ -64,7 +64,9 @@
         </tr>
         <tr>
             <td>
+                <a href="https://github.com/roman-4erkasov/deepschool-cvr-tserve/tree/dev">
                 TorchServe Service for OCR of barcodes 
+                </a>
              </td>
              <td> Large </td>
              <td> Work In Progress </td>
