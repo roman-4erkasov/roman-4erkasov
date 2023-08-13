@@ -31,7 +31,7 @@
                 </a>
              </td>
              <td> Smedium </td>
-             <td>Works well, but not published yet </td>
+             <td>Works well, has some TODOs </td>
              <td> Rocket CV of DeepSchool  </td>
         </tr>
         <tr>
