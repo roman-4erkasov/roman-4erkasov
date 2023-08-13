@@ -37,7 +37,7 @@
         <tr>
             <td>
                 Barcode segmetation based on LinkNet and trasfer to object detection based on Classic Computer Vision (OpenCV):<br/>
-                1. <a href="https://github.com/roman-4erkasov/deepschool-cvr-detect1/tree/dev">Via ultralytics package</a>
+                1. <a href="https://github.com/roman-4erkasov/deepschool-cvr-detect1/tree/dev">Via ultralytics package</a><br/>
                 2. <a>Via YOLOv5 source code</a>
              </td>
              <td> Medium </td>
