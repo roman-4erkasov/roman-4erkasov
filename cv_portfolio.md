@@ -76,7 +76,7 @@
             <td>
                 Custom ViT implemetation for Image Classification
              </td>
-             <td> Smedium </td>
+             <td> Medium </td>
              <td>Work In Progress</td>
              <td> Rocket CV of DeepSchool </td>
         </tr>
