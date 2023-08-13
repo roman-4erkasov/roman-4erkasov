@@ -13,7 +13,9 @@
     <tbody>
         <tr>
             <td>
-                Service with FastAPI and CI/CD that performs multilabe classifaction of aerocosmic shots
+                <a href="https://github.com/roman-4erkasov/deepschool-cvr-service/tree/dev">
+                    Service with FastAPI and CI/CD that performs multilabe classifaction of aerocosmic shots
+                </a>
              </td>
              <td> Large </td>
              <td>Works well, but not published yet</td>
