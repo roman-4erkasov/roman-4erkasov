@@ -52,7 +52,9 @@
         </tr>
         <tr>
             <td>
+                <a href="https://github.com/roman-4erkasov/deepschool-cvr-conversion/tree/dev">
                 Benchmark of inference tools: Torch, TorchTrace, TorchScript, ONNX, TensorRT (fp32 and fp16), OpenVino
+                </a>
              </td>
              <td> Small </td>
              <td>Works well, but not published yet </td>
