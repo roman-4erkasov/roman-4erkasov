@@ -14,10 +14,12 @@
     <tbody>
         <tr>
             <td>
-                  `Search Engine with parallel query processing
+                <a href="https://github.com/roman-4erkasov/cpp-search-server">
+                  Search Engine with parallel query processing
+                </a>
              </td>
              <td> Large </td>
-             <td>Works well, but not published yet</td>
+             <td>Works well, but it's need better description</td>
              <td> C++ Developer from Yandex Practicum </td>
         </tr>
         <tr>
