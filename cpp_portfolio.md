@@ -19,7 +19,7 @@
                 </a>
              </td>
              <td> Large </td>
-             <td>Works well, but it's need better description</td>
+             <td>Works well, but it's need better description and better build pipeline</td>
              <td> C++ Developer from Yandex Practicum </td>
         </tr>
         <tr>
