@@ -15,7 +15,7 @@ I both like developong models as a Data Scientist and implement them into Produc
 **Fields of interests:** AI in Biology, Algotrading, Network Science, GNN, NLP, CV, MLOps, C++, HPC, Distributed Systems
 
 
-📫 **How to reach me:** not yet ;-)
+📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/roman-cherkasov-aba6931a2?trk=contact-info)
 
 
 ### Projects 👷‍♀️
